@@ -1,0 +1,23 @@
+{
+  "name": "fundamento-ts",
+  "version": "1.0.0",
+  "description": "Fonte: Rocketseat - Discovery - Especializar = Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13",
+    "@babel/plugin-transform-typescript": "^7.18.12",
+    "@babel/preset-typescript": "^7.18.6",
+    "babel": "^6.23.0",
+    "script.ts": "^0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
